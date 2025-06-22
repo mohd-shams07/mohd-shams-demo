@@ -1,2 +1,4 @@
 # mohd-shams-demo
-this my first repositry
+This my first git repositry
+
+
